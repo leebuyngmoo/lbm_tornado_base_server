@@ -1,0 +1,29 @@
+base server v1
+
+
+
+===============================================================================
+<<<<   환경 변수 list>>>>
+exec_stat             >>>>>     fore , back
+
+
+===============================================================================
+pip list
+
+
+
+
+PyYAML
+tornado-cors
+tornado
+paho-mqtt
+
+pip install PyYAML tornado-cors tornado paho-mqtt
+
+
+
+
+
+pytz // 미설치  타임존 셋팅
+
+
